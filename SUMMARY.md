@@ -19,10 +19,8 @@
 ## Economics
 
 * [For end users](economics/for-end-users.md)
-* [For liquidity providers](economics/for-liquidity-providers/README.md)
-  * [GitHub Integration](economics/for-liquidity-providers/github-integration.md)
-* [Impermanent loss](economics/impermanent-loss/README.md)
-  * [Intercom Integration](economics/impermanent-loss/intercom-integration.md)
+* [For liquidity providers](economics/for-liquidity-providers.md)
+* [Impermanent loss](economics/impermanent-loss.md)
 
 ## Governance
 
