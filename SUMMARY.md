@@ -2,28 +2,29 @@
 
 * [What is DefiPlaza?](README.md)
 
-## Guides
+## The most competitive AMM
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [Design objectives](the-most-competitive-amm/design-objectives.md)
+* [The low cost option](the-most-competitive-amm/the-low-cost-option.md)
 
-## Fundamentals
+## Saving gas
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+* [Opcode gas costs](saving-gas/opcode-gas-costs.md)
+* [No flash loans](saving-gas/no-flash-loans.md)
+* [ETH not WETH](saving-gas/eth-not-weth.md)
+* [Variable packing](saving-gas/variable-packing.md)
+* [Single contract exchange](saving-gas/single-contract-exchange.md)
+* [Fixed number of tokens](saving-gas/fixed-number-of-tokens.md)
 
-## Use Cases
+## Economics
 
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
+* [For end users](economics/for-end-users.md)
+* [For liquidity providers](economics/for-liquidity-providers/README.md)
+  * [GitHub Integration](economics/for-liquidity-providers/github-integration.md)
+* [Impermanent loss](economics/impermanent-loss/README.md)
+  * [Intercom Integration](economics/impermanent-loss/intercom-integration.md)
 
-## Extras
+## Governance
 
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [Tokenomics](governance/tokenomics.md)
+* [Liquidity program](governance/liquidity-program.md)
