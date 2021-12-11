@@ -26,7 +26,7 @@ Here are a couple of examples of succinct overviews from products with really gr
 **Good to know:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at [Loom](https://loom.com) as a perfect example of a succinct feature overview.
 {% endhint %}
 
-### Guides: Jump right in
+### Creating the most competitive AMM
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
@@ -38,15 +38,11 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [the-low-cost-option.md](the-most-competitive-amm/the-low-cost-option.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 {% hint style="info" %}
 **Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
 {% endhint %}
 
-### Fundamentals: Dive a little deeper
+### How DefiPlaza saves gas on swaps
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
